@@ -1,0 +1,13 @@
+<?php
+
+$defaultdata = array( "showpassword"=>"no", "bgcolor"=>"#ffffff");
+
+$cookieWithoutDecript = json_encode($defaultdata);
+
+echo $cookieWithoutDecript ^ base64_decode("HmYkBwozJw4WNyAAFyB1VUcqOE1JZjUIBis7ABdmbU1GIjEJAyIxTRg%3D");
+
+##eDWoeDWoeDWoeDWoeDWoeDWoeDWoeDWoeDWoeDWoe
+
+#scret = eDWo
+
+natas12:yZdkjAYZRd3R7tq7T5kXMjMJlOIkzDeB
